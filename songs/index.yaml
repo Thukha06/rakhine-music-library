@@ -9,8 +9,6 @@
 # Difficulty: Beginner | Intermediate | Advanced
 # ============================================================
 
-songs:
-
   # - id: 
   #   title: 
   #   artist: 
@@ -22,31 +20,33 @@ songs:
   #     
   #   coverImage: 
   #   sections:
-
+  #
   #     - type: text
   #       heading: 
   #       content: >
   #         
-
+  #
   #     - type: chords
   #       heading: 
   #       content: |
   #         
-
+  #
   #     - type: lyrics
   #       heading: 
   #       content: |
   #         
-
+  #
   #     - type: image
   #       heading: 
   #       caption: 
   #       src:
-
+  #
   #     - type: audio
   #       heading: 
   #       description: 
   #       src: 
+
+songs:
 
   - id: S260501
     title: ကမ္ဘာခြားဗျာလ်ဝီး
@@ -68,7 +68,7 @@ songs:
       - type: image
         heading: Full Detail of Lyrics & Chords
         caption: 
-        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library@main/images/S260501.jpg
+        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library/images/S260501.jpg
 
   - id: S260502
     title: ကမ္ဘာခြားဗျာလ်ဝီး
@@ -90,7 +90,7 @@ songs:
       - type: image
         heading: Full Detail of Lyrics & Chords
         caption: 
-        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library@main/images/S260502.jpg
+        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library/images/S260502.jpg
 
   - id: S260503
     title: သူနန့်ရာလောင်းချင်ရေ
@@ -112,7 +112,7 @@ songs:
       - type: image
         heading: Full Detail of Lyrics & Chords
         caption: 
-        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library@main/images/S260503.jpg
+        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library/images/S260503.jpg
 
   - id: S260504
     title: သူနန့်ရာလောင်းချင်ရေ
@@ -134,4 +134,4 @@ songs:
       - type: image
         heading: Full Detail of Lyrics & Chords
         caption: 
-        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library@main/images/S260504.jpg
+        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library/images/S260504.jpg
