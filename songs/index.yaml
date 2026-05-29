@@ -1,0 +1,42 @@
+# ============================================================
+# RMCLib — Song Library
+# ============================================================
+# Each song is an item under the `songs` key.
+# Sections can be added in any order, any number of times.
+#
+# Section types: text | chords | lyrics | audio | image
+#
+# Difficulty: Beginner | Intermediate | Advanced
+# ============================================================
+
+songs:
+
+  - id: S260501
+    title: ကမ္ဘာခြားဗျာလ်ဝီး
+    artist: ဝင်းကိုခိုင်
+    genre: Pop
+    difficulty: Beginner
+    key: G
+    bpm: 67
+    description: >
+      အတူတူ ချိုက်ခကေလဲ မဆုံနိုင်လို့ ကမ္ဘာခြားဗျာလ်ဝီး လားခရေသူအတွက် ဆုတောင်းပီးထားရေ တေးခြင်း တစ်ပုဒ်ဖြစ်ပါရေ။
+    coverImage: https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1600&auto=format&fit=crop
+    sections:
+
+      - type: text
+        heading: About This Song
+        content: >
+          ကိုဝင်းကိုခိုင် ရေးဖွဲ့သီဆိုထားပြီးတော့ အတူတူ ချိုက်ခကေလဲ မဆုံနိုင်လို့ ကမ္ဘာခြားဗျာလ်ဝီး လားခရေသူအတွက် ဆုတောင်းပီးထားရေ တေးခြင်း တစ်ပုဒ်ဖြစ်ပါရေ။
+
+      - type: chords
+        heading: Chords Used
+        content: |
+          Em7 | G | Dsus4 | A7sus4
+
+          All chords are played with a capo on fret 2. These open chord shapes
+          are beginner-friendly and ring beautifully together.
+
+      - type: image
+        heading: Full Detail of Lyrics & Chords
+        caption: 
+        src: https://cdn.jsdelivr.net/gh/Thukha06/rakhine-music-library@main/images/S260501.jpg
