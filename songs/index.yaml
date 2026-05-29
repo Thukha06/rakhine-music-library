@@ -22,27 +22,27 @@ songs:
   #     
   #   coverImage: 
   #   sections:
-
+  #
   #     - type: text
   #       heading: 
   #       content: >
   #         
-
+  #
   #     - type: chords
   #       heading: 
   #       content: |
   #         
-
+  #
   #     - type: lyrics
   #       heading: 
   #       content: |
   #         
-
+  #
   #     - type: image
   #       heading: 
   #       caption: 
   #       src:
-
+  #
   #     - type: audio
   #       heading: 
   #       description: 
